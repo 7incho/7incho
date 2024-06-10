@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 -  🌍  Based in Argentina
 -  ✉️  Contact at [martin.lopez.dev@gmail.com](mailto:martin.lopez.dev@gmail.com)
 -  🚀  CLEAN Full Stack Developer!
--  🧠  Improving my Back End Skills, currently mastering NestJS and Design Patterns
+-  🧠  Improving my Back End Skills, currently mastering NodeJS and Design Patterns
 -  🤝  Open to collaborating on projects related to helping and improving people's quality of life.
 -  ⚡  Interests & Hobbies: Lakers, Boca Juniors, personal development, trekking, cutting-edge tech.
 
