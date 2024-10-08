@@ -12,7 +12,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 # Hi 👋 My name is Martin Lopez
 
@@ -26,3 +25,4 @@ Here are some ideas to get you started:
 -  ⚡  Interests & Hobbies: Lakers, Boca Juniors, personal development, trekking, cutting-edge tech.
 
 - 👨‍💻 All of my projects are available at [https://martin-lopez-portfolio.vercel.app/](https://martin-lopez-portfolio.vercel.app/)
+-->
